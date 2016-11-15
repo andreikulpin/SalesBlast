@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SalesBlast</string>
+    <string name="snack_connection_error">Connection error</string>
+    <string name="snack_retry">Retry</string>
+    <string name="title_toolbar_list">News and sales</string>
+    <string name="button_source">Source</string>
+    <string name="date_pattern_api">dd-MM-yyyy hh:mm:ss</string>
+    <string name="date_pattern">dd MMMM yyyy</string>
+</resources>
